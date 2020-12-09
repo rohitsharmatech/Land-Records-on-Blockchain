@@ -4,9 +4,13 @@ Unlike developed countries, the property ownership details in developing countri
 # Technical Details 
 
 Ganache
+
 Truffle
+
 Metamask
+
 Solidity js
+
 Knowledge of basic Javascript etc.
 
 Functions are:
